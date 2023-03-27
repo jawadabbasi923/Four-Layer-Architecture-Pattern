@@ -23,6 +23,15 @@ dependencies:
   dio: ^5.0.3
   http: ^0.13.5
 
+# [Firebase]
+  firebase_core: ^2.8.0
+  google_sign_in: ^6.0.2
+  firebase_auth: ^4.3.0
+
+# [Data Modeling]
+  dartz: ^0.10.1
+  equatable: ^2.0.5
+
 dev_dependencies:
   flutter_test:
     sdk: flutter

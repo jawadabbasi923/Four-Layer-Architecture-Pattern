@@ -117,6 +117,7 @@ class LoginView extends StatelessWidget {
           color: AppColor.colorFacebook,
           onClick: () {
             FocusScope.of(Get.context!).unfocus();
+            loginController.googleLogin();
           },
         ),
         SizedBox(width: 15),
@@ -126,6 +127,7 @@ class LoginView extends StatelessWidget {
           color: AppColor.black,
           onClick: () {
             FocusScope.of(Get.context!).unfocus();
+            loginController.googleLogin();
           },
         ),
       ],

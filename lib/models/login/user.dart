@@ -1,5 +1,5 @@
 class User {
-  int? customerId;
+  String? customerId;
   String? firstName;
   String? lastName;
   String? contact;

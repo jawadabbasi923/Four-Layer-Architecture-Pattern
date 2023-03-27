@@ -22,4 +22,6 @@ abstract class AppText {
 
   static const String ALERT_TEXT = 'Info!';
   static const String FEATURE_NOT_AVAIABLE = 'Feature is not available yet.';
+
+  static const String DASHBOARD_TITLE = 'Dashboard';
 }
