@@ -1,4 +1,4 @@
-# dsadas
+# Simple Architecture for Small to Medium Projects
 
 A new Flutter project.
 
